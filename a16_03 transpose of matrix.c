@@ -6,7 +6,7 @@
 int main()
 {
     int n, m;
-    printf("Enter the size of the matrix.\n");
+    printf("Enter the size of the matrix.\nfor example if matrix is 3*3 enter 3 3.\n");
     scanf("%d %d",&n, &m);
     int a[n][m], i, j;
     printf("Enter the values for matrix.\n");

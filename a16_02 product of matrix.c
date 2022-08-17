@@ -6,7 +6,7 @@
 int main()
 {
     int a[3][3], b[3][3], i, j, x;
-    printf("Enter the values of both matrices.\n");
+    printf("Enter the values of each elements of both matrices, 1st element of a then 1st element of b and so on.\n");
     for(i=0; i<3; i++)
     {
         for(j=0; j<3; j++)
